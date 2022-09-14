@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.db0f187c.css",
+    "main.js": "/MyPortfolio/static/js/main.23a14add.js",
+    "static/media/rbony.jpg": "/MyPortfolio/static/media/rbony.c80ae3fdd7e95b87f65c.jpg",
+    "static/media/github.svg": "/MyPortfolio/static/media/github.d45d58329852cdd58b06049a1b07d6a1.svg",
+    "static/media/logo.svg": "/MyPortfolio/static/media/logo.3e8d1fe4014b6a39aa275d61fbf6db41.svg",
+    "static/media/linkedin.svg": "/MyPortfolio/static/media/linkedin.d09d64fe30b941c2d5dba4695179f496.svg",
+    "index.html": "/MyPortfolio/index.html",
+    "static/media/herobeautifier.svg": "/MyPortfolio/static/media/herobeautifier.b97363243633355bb6a15388d211e7a7.svg",
+    "static/media/herodivider.svg": "/MyPortfolio/static/media/herodivider.13994e640c16286506419610fc338c4d.svg",
+    "static/media/footerdivider.svg": "/MyPortfolio/static/media/footerdivider.6acc5afca924b50cdc388832fc45a538.svg",
+    "static/media/42.svg": "/MyPortfolio/static/media/42.fdedc2d808115058dd1a536642c0197a.svg",
+    "main.db0f187c.css.map": "/MyPortfolio/static/css/main.db0f187c.css.map",
+    "main.23a14add.js.map": "/MyPortfolio/static/js/main.23a14add.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db0f187c.css",
+    "static/js/main.23a14add.js"
+  ]
+}
